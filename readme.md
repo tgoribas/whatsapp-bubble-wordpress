@@ -5,5 +5,8 @@
 Plugin que adiciona um botão para uma conversa do WhatsApp
 
 ## ChangeLog
+### 0.9.1
+Adicionado o arquivo 'whatsappBubbleStyle.min.css'
+
 ### 0.9.0
 Release Inicial
