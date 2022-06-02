@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WhatsApp Bubble
  * Description: Mostrar uma 'Bubble' com o link do WhatsApp.
- * Version: 0.9.0
+ * Version: 0.9.3
  * Author: Tiago Ribas | tgoribas@gmail.com
  * Author URI: https://www.tiagoribas.com
  */
